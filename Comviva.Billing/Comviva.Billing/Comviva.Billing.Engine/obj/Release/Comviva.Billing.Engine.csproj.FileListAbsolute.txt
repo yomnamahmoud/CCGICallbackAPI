@@ -1,0 +1,24 @@
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Engine\bin\Release\Comviva.Billing.Engine.exe.config
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Engine\bin\Release\Comviva.Billing.Engine.exe
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Engine\bin\Release\Comviva.Billing.Engine.pdb
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Engine\bin\Release\Comviva.Billing.Library.dll
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Engine\bin\Release\CustomLogger.dll
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Engine\bin\Release\Newtonsoft.Json.dll
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Engine\bin\Release\SQLObjectMapper.dll
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Engine\bin\Release\Comviva.Billing.Library.pdb
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Engine\bin\Release\Newtonsoft.Json.xml
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Engine\obj\Release\Comviva.Billing.Engine.csprojResolveAssemblyReference.cache
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Engine\obj\Release\Comviva.Billing.Engine.exe
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Engine\obj\Release\Comviva.Billing.Engine.pdb
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Engine\bin\Release\Comviva.Billing.Engine.exe.config
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Engine\bin\Release\Comviva.Billing.Engine.exe
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Engine\bin\Release\Comviva.Billing.Engine.pdb
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Engine\bin\Release\Comviva.Billing.Library.dll
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Engine\bin\Release\CustomLogger.dll
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Engine\bin\Release\SQLObjectMapper.dll
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Engine\bin\Release\Newtonsoft.Json.dll
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Engine\bin\Release\Comviva.Billing.Library.pdb
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Engine\bin\Release\Newtonsoft.Json.xml
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Engine\obj\Release\Comviva.Billing.Engine.csprojResolveAssemblyReference.cache
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Engine\obj\Release\Comviva.Billing.Engine.exe
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Engine\obj\Release\Comviva.Billing.Engine.pdb

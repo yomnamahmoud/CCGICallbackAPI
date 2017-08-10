@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\API Publish\callback</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>01/03/2017 17:23:49</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>01/03/2017 17:23:49</publishTime>
+    </File>
+    <File Include="bin/CallBackCCGAPI.dll">
+      <publishTime>01/03/2017 17:23:46</publishTime>
+    </File>
+    <File Include="bin/CallBackCCGAPILibrary.dll">
+      <publishTime>01/03/2017 16:53:02</publishTime>
+    </File>
+    <File Include="bin/CustomLogger.dll">
+      <publishTime>09/29/2016 10:59:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.dll">
+      <publishTime>09/26/2016 13:03:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>09/26/2016 13:03:53</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/17/2016 12:03:51</publishTime>
+    </File>
+    <File Include="bin/ObjectDumper.dll">
+      <publishTime>09/26/2016 13:03:32</publishTime>
+    </File>
+    <File Include="bin/ReceiveSMSAPI.dll">
+      <publishTime>01/03/2017 17:11:21</publishTime>
+    </File>
+    <File Include="bin/SMSManager.dll">
+      <publishTime>09/29/2016 10:59:35</publishTime>
+    </File>
+    <File Include="bin/SQLObjectMapper.dll">
+      <publishTime>11/24/2016 12:11:42</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>10/17/2016 12:03:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>10/17/2016 12:03:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>10/17/2016 12:03:54</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/17/2016 12:03:54</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>01/03/2017 17:23:46</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/03/2017 17:11:22</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

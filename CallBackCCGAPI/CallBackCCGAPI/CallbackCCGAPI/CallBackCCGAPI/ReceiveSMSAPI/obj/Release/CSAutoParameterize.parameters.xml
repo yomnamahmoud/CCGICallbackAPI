@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MainSMSDataTransferObject-Web.config Connection String" description="MainSMSDataTransferObject Connection String used in web.config by the application to access the database." defaultValue="data source=.;initial catalog=duMobileBox;Integrated security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Yomna\\Documents\\GitHub\\CCGICallbackAPI\\CallBackCCGAPI\\CallBackCCGAPI\\CallbackCCGAPI\\CallBackCCGAPI\\ReceiveSMSAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MainSMSDataTransferObject']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,9 @@
+D:\ComvivaAPI\ComvivaAPILibrary\bin\Debug\ComvivaAPILibrary.dll
+D:\ComvivaAPI\ComvivaAPILibrary\bin\Debug\ComvivaAPILibrary.pdb
+D:\ComvivaAPI\ComvivaAPILibrary\bin\Debug\CustomLogger.dll
+D:\ComvivaAPI\ComvivaAPILibrary\bin\Debug\SQLObjectMapper.dll
+D:\ComvivaAPI\ComvivaAPILibrary\bin\Debug\CustomLogger.pdb
+D:\ComvivaAPI\ComvivaAPILibrary\bin\Debug\SQLObjectMapper.pdb
+D:\ComvivaAPI\ComvivaAPILibrary\obj\Debug\ComvivaAPILibrary.dll
+D:\ComvivaAPI\ComvivaAPILibrary\obj\Debug\ComvivaAPILibrary.pdb
+D:\ComvivaAPI\ComvivaAPILibrary\obj\Debug\ComvivaAPILibrary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<ocsRequest>
+<requestType>1006</requestType>
+<serviceNode>TATELECOM</serviceNode>
+<sequenceNo>{0}</sequenceNo>
+<callingParty>971{1}</callingParty>
+<serviceType>FASTROUTES</serviceType>
+<serviceId>5892</serviceId>
+<bearerId>WAP</bearerId>
+<chargeAmount>5</chargeAmount>
+<planId>FASTROUTE30</planId>
+<asyncFlag>Y</asyncFlag>
+<renewalFlag>-1</renewalFlag>
+<bundleType>N</bundleType>
+<serviceUsage>-1</serviceUsage>
+<promoId>-1</promoId>
+<subscriptionFlag>S</subscriptionFlag>
+<optionalParameter1>categoryId#-1</optionalParameter1>
+<optionalParameter2>contentId#-1</optionalParameter2>
+<optionalParameter3>-1</optionalParameter3>
+<optionalParameter4>-1</optionalParameter4>
+<optionalParameter5>-1</optionalParameter5>
+</ocsRequest>

@@ -1,0 +1,16 @@
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Library\bin\Release\Comviva.Billing.Library.dll
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Library\bin\Release\Comviva.Billing.Library.pdb
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Library\bin\Release\CustomLogger.dll
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Library\bin\Release\Newtonsoft.Json.dll
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Library\bin\Release\SQLObjectMapper.dll
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Library\bin\Release\Newtonsoft.Json.xml
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Library\obj\Release\Comviva.Billing.Library.dll
+c:\users\ta-user\documents\visual studio 2015\Projects\Comviva.Billing\Comviva.Billing.Library\obj\Release\Comviva.Billing.Library.pdb
+C:\Users\TA-User\Documents\Visual Studio 2015\Projects\Comviva.Billing\Comviva.Billing.Library\obj\Release\Comviva.Billing.Library.csprojResolveAssemblyReference.cache
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Library\bin\Release\Comviva.Billing.Library.dll
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Library\bin\Release\Comviva.Billing.Library.pdb
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Library\bin\Release\Newtonsoft.Json.dll
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Library\bin\Release\Newtonsoft.Json.xml
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Library\obj\Release\Comviva.Billing.Library.csprojResolveAssemblyReference.cache
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Library\obj\Release\Comviva.Billing.Library.dll
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\Comviva.Billing\Comviva.Billing\Comviva.Billing.Library\obj\Release\Comviva.Billing.Library.pdb

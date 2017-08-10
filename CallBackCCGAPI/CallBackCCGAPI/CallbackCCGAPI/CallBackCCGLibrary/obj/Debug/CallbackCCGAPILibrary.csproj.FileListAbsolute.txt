@@ -1,0 +1,8 @@
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\CallBackCCGAPI\CallBackCCGAPI\CallbackCCGAPI\CallBackCCGLibrary\bin\Debug\ComvivaAPILibrary.dll
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\CallBackCCGAPI\CallBackCCGAPI\CallbackCCGAPI\CallBackCCGLibrary\bin\Debug\ComvivaAPILibrary.pdb
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\CallBackCCGAPI\CallBackCCGAPI\CallbackCCGAPI\CallBackCCGLibrary\bin\Debug\SQLObjectMapper.dll
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\CallBackCCGAPI\CallBackCCGAPI\CallbackCCGAPI\CallBackCCGLibrary\bin\Debug\CustomLogger.pdb
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\CallBackCCGAPI\CallBackCCGAPI\CallbackCCGAPI\CallBackCCGLibrary\bin\Debug\SQLObjectMapper.pdb
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\CallBackCCGAPI\CallBackCCGAPI\CallbackCCGAPI\CallBackCCGLibrary\obj\Debug\CallbackCCGAPILibrary.csprojResolveAssemblyReference.cache
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\CallBackCCGAPI\CallBackCCGAPI\CallbackCCGAPI\CallBackCCGLibrary\obj\Debug\ComvivaAPILibrary.dll
+C:\Users\Yomna\Documents\GitHub\CCGICallbackAPI\CallBackCCGAPI\CallBackCCGAPI\CallbackCCGAPI\CallBackCCGLibrary\obj\Debug\ComvivaAPILibrary.pdb
